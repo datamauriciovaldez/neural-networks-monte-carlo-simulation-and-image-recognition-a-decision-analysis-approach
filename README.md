@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🧠 Exploration of Neural Networks and Image Recognition
+# 🧠 Neural Networks, Monte Carlo Simulation and Image Recognition
+### A Decision Analysis Approach
 
 **Three experiments in decision analysis: from Monte Carlo simulation to a neural network that reads handwritten digits, with the network built from scratch in NumPy.**
 
@@ -243,8 +244,8 @@ Weights are initialised with **He initialisation** (`np.sqrt(2 / n_inputs)`), wh
 # ▶️ Run it yourself
 
 ```bash
-git clone https://github.com/datamauriciovaldez/exploration-of-neural-networks-and-image-recognition.git
-cd exploration-of-neural-networks-and-image-recognition
+git clone https://github.com/datamauriciovaldez/neural-networks-monte-carlo-simulation-and-image-recognition-a-decision-analysis-approach.git
+cd neural-networks-monte-carlo-simulation-and-image-recognition-a-decision-analysis-approach
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter torch
 jupyter notebook notebooks/
 ```

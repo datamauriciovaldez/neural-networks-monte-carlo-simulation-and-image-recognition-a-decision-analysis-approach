@@ -57,6 +57,7 @@
 │   ├── task3_mnist_test_evaluation.ipynb      # Task 3 (re-run, evaluated on the held-out test set)
 │   └── Titanic_Dataset.csv
 ├── assets/                                    # every figure used in this README
+├── LICENSE                                    # MIT
 └── README.md
 ```
 </details>
@@ -382,6 +383,10 @@ Suggested order: `task1` → `task2` → `task3_mnist_main` → `task3_mnist_tes
 - Kaplan, J. et al. (2020). *Scaling Laws for Neural Language Models*, behind our learning-curve / diminishing-returns observation. <https://arxiv.org/abs/2001.08361>
 - DataCamp, *CPU vs GPU*, on why matrix maths suits GPUs. <https://www.datacamp.com/es/blog/cpu-vs-gpu>
 - Cienciadedatos.net, *Introducción a PyTorch*, on tensors versus NumPy arrays. <https://cienciadedatos.net/documentos/pydl01-introduccion-pytorch>
+
+## 📄 License
+
+Released under the [MIT License](LICENSE).
 
 ---
 
